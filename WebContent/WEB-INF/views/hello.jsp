@@ -2,6 +2,6 @@
 <title>Hello</title>
 <body>
 <div id="main">
-<marquee>${msg}</marquee>
+${msg}
 </div>
 </body>

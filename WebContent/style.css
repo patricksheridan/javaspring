@@ -1,9 +1,9 @@
 #main
 {
 	width: 400px;
-
+	height: 100%;
 	margin: 0 auto;
-	background-color: red;
+	background-color: orange;
 	border-radius: 10px;
 }
 
