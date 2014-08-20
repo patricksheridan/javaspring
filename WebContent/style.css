@@ -1,0 +1,13 @@
+#main
+{
+	width: 400px;
+
+	margin: 0 auto;
+	background-color: red;
+	border-radius: 10px;
+}
+
+body
+{
+	background-color: black;
+}

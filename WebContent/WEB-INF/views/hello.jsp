@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 <title>Hello</title>
 <body>
-${msg}
+<div id="main">
+<marquee>${msg}</marquee>
+</div>
 </body>
